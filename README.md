@@ -10,7 +10,7 @@ Welcome to **containerexp**! This repository is my personal collection of contai
    - **Goal:** Begin the Docker journey by running the classic "Hello World" container.  
    - **Key Focus:** Learning basic Docker commands, image execution, and container runtime.
 
-**2. [Dockerized Streamlit Development Environment](https://github.com/Shivanshunishad18/Container_Exp/tree/main/Dockerized-Streamlit-Development-Environment-main)**  
+**2. [Dockerized Streamlit Development Environment](https://github.com/Shivanshunishad18/Container_Exp/tree/main/Dockerized-Streamlit-Development-Environment-main/Dockerized-Streamlit-Development-Environment-main)**  
    - **Goal:** Set up a containerized Streamlit environment to facilitate efficient data visualization.  
    - **Key Focus:** Web app deployment, interactive UI, and container efficiency.
 
