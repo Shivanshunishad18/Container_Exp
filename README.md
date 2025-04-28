@@ -6,19 +6,19 @@ Welcome to **containerexp**! This repository is my personal collection of contai
 
 ### Containerized Projects:
 
-**1. [DOCKER BASICS: Hello, Container World!](https://github.com/udyThe/containerexp/tree/main/1.DOCKER%20BASICS%3A%20Hello%20World)**  
+**1. [DOCKER BASICs](https://github.com/Shivanshunishad18/Container_Exp/tree/main/DOCKER-BASICS-Hello_World-main/DOCKER-BASICS-Hello_World-main)**  
    - **Goal:** Begin the Docker journey by running the classic "Hello World" container.  
    - **Key Focus:** Learning basic Docker commands, image execution, and container runtime.
 
-**2. [Dockerized Streamlit Development Environment](https://github.com/udyThe/containerexp/tree/main/2.%20Dockerized%20Streamlit%20Development%20Environment)**  
+**2. [Dockerized Streamlit Development Environment](https://github.com/Shivanshunishad18/Container_Exp/tree/main/Dockerized-Streamlit-Development-Environment-main)**  
    - **Goal:** Set up a containerized Streamlit environment to facilitate efficient data visualization.  
    - **Key Focus:** Web app deployment, interactive UI, and container efficiency.
 
-**3. [Titanic Survival Predictor: Containerized Streamlit App](https://github.com/udyThe/containerexp/tree/main/3.Titanic%20Survival%20Predictor%20Containerized%20Streamlit%20App)**  
+**3. [Titanic Survival Predictor: Containerized Streamlit App](https://github.com/Shivanshunishad18/Container_Exp/tree/main/titanic-main/titanic-main)**  
    - **Goal:** Deploy a machine learning-powered Titanic survival prediction app using Streamlit and Docker.  
    - **Key Focus:** ML model serving, interactive UI, and cloud deployment.
 
-**4. [Containerized MySQL: Agile & Efficient](https://github.com/udyThe/containerexp/tree/main/4.%20Containerized%20MySQL%3A%20Agile%20%26%20Efficient%20%F0%9F%90%AC)**  
+**4. [Containerized MySQL: Agile & Efficient](https://github.com/Shivanshunishad18/Container_Exp/tree/main/Containerized-Mysql_Agile-Efficient-main)**  
    - **Goal:** Run MySQL in a Docker container to ensure fast, reliable, and persistent database management.  
    - **Key Focus:** Data persistence, networking, and security.
 
