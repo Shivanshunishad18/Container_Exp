@@ -69,4 +69,4 @@ Welcome to **containerexp**! This repository is my personal collection of contai
 
 Stay tuned for more containerized innovations from containerexp!
 
-By: Uday Surothiya
+By: Shivanshu Nishad
